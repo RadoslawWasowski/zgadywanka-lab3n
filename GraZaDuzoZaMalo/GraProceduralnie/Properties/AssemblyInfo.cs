@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GraMonolitycznie")]
+[assembly: AssemblyTitle("GraProceduralnie")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GraMonolitycznie")]
+[assembly: AssemblyProduct("GraProceduralnie")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("69a39ffd-d370-470c-a1de-1ba903962692")]
+[assembly: Guid("25145668-33e2-4a86-a1d4-480068bfb921")]
 
 // Version information for an assembly consists of the following four values:
 //
